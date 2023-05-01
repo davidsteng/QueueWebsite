@@ -23,6 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://davidsteng.github.io/QueueWebsite/",
   "eslintConfig": {
     "extends": [
       "react-app",
